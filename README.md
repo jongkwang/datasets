@@ -10,7 +10,7 @@ TensorFlow Datasets provides many public datasets as `tf.data.Datasets`.
 
 ## Documentation
 
-To install and use TFDS, we strongly encourage to start with our
+To install and use TFDS, We strongly encourage to start with our.
 [**getting started guide**](https://www.tensorflow.org/datasets/overview). Try
 it interactively in a
 [Colab notebook](https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/overview.ipynb).
